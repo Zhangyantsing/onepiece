@@ -1,0 +1,3 @@
+[submodule "skip-thoughts"]
+	path = skip-thoughts
+	url = git@github.com:Zhangyantsing/skip-thoughts.git
