@@ -1,3 +1,12 @@
 [submodule "skip-thoughts"]
 	path = skip-thoughts
 	url = git@github.com:Zhangyantsing/skip-thoughts.git
+[submodule "tensor2tensor"]
+	path = tensor2tensor
+	url = git@github.com:Zhangyantsing/tensor2tensor.git
+[submodule "models"]
+	path = models
+	url = git@github.com:Zhangyantsing/models.git
+[submodule "tensorflow"]
+	path = tensorflow
+	url = git@github.com:Zhangyantsing/tensorflow.git
